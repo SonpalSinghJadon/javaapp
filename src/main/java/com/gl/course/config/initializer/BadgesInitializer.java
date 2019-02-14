@@ -1,4 +1,4 @@
-package com.gl.course.config.initializer;
+package com.gl.course.config.initializer
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
